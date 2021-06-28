@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ekFK5OA/S08e1284Sk4yLtFj9vZBIN28zk//d5+jNNPeMU0Q2rE5ccMEMMfTqlSDjn00JeYV1NK406cZxYKsog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Korisnik\\Desktop\\console app\\6\\Task6\\Task6\\Task6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Korisnik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
